@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM ruby:2.3
 MAINTAINER James Ribar <james@jribar.com>
 
 ENV NPM_CONFIG_LOGLEVEL info
